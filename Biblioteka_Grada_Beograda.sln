@@ -8,11 +8,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteka_Grada_Beograda",
 		{2A84BB01-2B56-47B3-AF29-26E5B1429EB6} = {2A84BB01-2B56-47B3-AF29-26E5B1429EB6}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL-Poslovna Logika", "..\BL-Poslovna Logika\BL-Poslovna Logika.csproj", "{0EE2149F-8621-49A0-B7A8-BFC05B265F32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL-Poslovna Logika", "BL-Poslovna Logika\BL-Poslovna Logika.csproj", "{0EE2149F-8621-49A0-B7A8-BFC05B265F32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL-Sloj podataka", "..\DL-Sloj podataka\DL-Sloj podataka.csproj", "{2A84BB01-2B56-47B3-AF29-26E5B1429EB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DL-Sloj podataka", "DL-Sloj podataka\DL-Sloj podataka.csproj", "{2A84BB01-2B56-47B3-AF29-26E5B1429EB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "..\Shared\Shared.csproj", "{93483C70-CAA0-4275-B407-A2AA8D0EF66B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{93483C70-CAA0-4275-B407-A2AA8D0EF66B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,7 +3,6 @@ using Poslovna_Logika;
 using Shared;
 using System.Windows.Forms;
 using System.Linq;
-using BL_Poslovna_Logika;
 using System.IO;
 using System.Drawing;
 
